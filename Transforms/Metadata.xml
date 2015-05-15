@@ -1,0 +1,32 @@
+﻿<metadata>
+    <!--
+  This sample removes the class: android.support.v4.content.AsyncTaskLoader.LoadTask:
+  <remove-node path="/api/package[@name='android.support.v4.content']/class[@name='AsyncTaskLoader.LoadTask']" />
+  
+  This sample removes the method: android.support.v4.content.CursorLoader.loadInBackground:
+  <remove-node path="/api/package[@name='android.support.v4.content']/class[@name='CursorLoader']/method[@name='loadInBackground']" />
+
+
+  -->
+
+  <remove-node path="/api/package[@name='com.koushikdutta.async.util']/class[@name='FileCache']" />
+  <remove-node path="/api/package[@name='com.koushikdutta.async.future']/interface[@name='DependentFuture']" />
+  <remove-node path="/api/package[@name='com.koushikdutta.async.future']/class[@name='TransformFuture']" />
+  <remove-node path="/api/package[@name='com.koushikdutta.async.future']/class[@name='ConvertFuture']" />
+  <remove-node path="/api/package[@name='com.koushikdutta.async.future']/class[@name='SimpleFuture']" />
+  <remove-node path="/api/package[@name='com.koushikdutta.async.future']/class[@name='SimpleCancellable']" />
+  <remove-node path="/api/package[@name='com.koushikdutta.async.util']/class[@name='UntypedHashtable']" />
+  <remove-node path="/api/package[@name='com.koushikdutta.async.util']/class[@name='HashList']" />
+  <remove-node path="/api/package[@name='com.koushikdutta.async.util']/class[@name='LruCache']" />
+  <remove-node path="/api/package[@name='com.koushikdutta.async.util']/class[@name='Allocator']" />
+  <remove-node path="/api/package[@name='com.koushikdutta.async']/class[@name='ArrayDeque']" />
+  <remove-node path="/api/package[@name='com.koushikdutta.async']/class[@name='FilteredDataEmitter']" />
+
+  <remove-node path="/api/package[@name='com.koushikdutta.async.http.body']/class[@name='StreamBody']" />
+  <remove-node path="/api/package[@name='com.koushikdutta.async.http']/class[@name='AsyncHttpClient.RequestCallbackBase']" />
+
+  <remove-node path="/api/package[@name='com.koushikdutta.async.http']/class[@name='AsyncHttpClientMiddleware.GetSocketData']/field[@name='state']" />
+  <remove-node path="/api/package[@name='com.koushikdutta.async.http.spdy']/class[@name='Header']" />
+  <remove-node path="/api/package[@name='com.koushikdutta.async.http.cache']/class[@name='RawHeaders']" />
+  <remove-node path="/api/package[@name='com.koushikdutta.async.util']/class[@name='TaggedList']" />
+</metadata>

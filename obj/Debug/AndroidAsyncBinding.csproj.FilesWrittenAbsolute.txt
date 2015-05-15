@@ -1,0 +1,6 @@
+/Users/james/Developer/emclient2/EveryoneMessagesClient/Xamarin/EMXamarin/AndroidAsyncBinding/obj/Debug/MonoAndroid,Version=v5.0.AssemblyAttribute.cs
+/Users/james/Developer/emclient2/EveryoneMessagesClient/Xamarin/EMXamarin/AndroidAsyncBinding/obj/Debug/AndroidAsyncBinding.Jars.androidasync-2.1.4.jar
+/Users/james/Developer/emclient2/EveryoneMessagesClient/Xamarin/EMXamarin/AndroidAsyncBinding/bin/Debug/AndroidAsyncBinding.dll.mdb
+/Users/james/Developer/emclient2/EveryoneMessagesClient/Xamarin/EMXamarin/AndroidAsyncBinding/bin/Debug/AndroidAsyncBinding.dll
+/Users/james/Developer/emclient2/EveryoneMessagesClient/Xamarin/EMXamarin/AndroidAsyncBinding/obj/Debug/AndroidAsyncBinding.dll
+/Users/james/Developer/emclient2/EveryoneMessagesClient/Xamarin/EMXamarin/AndroidAsyncBinding/obj/Debug/AndroidAsyncBinding.dll.mdb
