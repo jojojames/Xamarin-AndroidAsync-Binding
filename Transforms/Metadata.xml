@@ -29,4 +29,6 @@
   <remove-node path="/api/package[@name='com.koushikdutta.async.http.spdy']/class[@name='Header']" />
   <remove-node path="/api/package[@name='com.koushikdutta.async.http.cache']/class[@name='RawHeaders']" />
   <remove-node path="/api/package[@name='com.koushikdutta.async.util']/class[@name='TaggedList']" />
+  <remove-node path="/api/package[@name='com.koushikdutta.async']/class[@name='Util']" />
+
 </metadata>
